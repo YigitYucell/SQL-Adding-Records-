@@ -1,0 +1,16 @@
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.csproj.AssemblyReference.cache
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.Properties.Resources.resources
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.csproj.GenerateResource.cache
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\AddRecord\AddRecord\bin\Debug\AddRecord.exe.config
+C:\Users\yigit\source\repos\AddRecord\AddRecord\bin\Debug\AddRecord.exe
+C:\Users\yigit\source\repos\AddRecord\AddRecord\bin\Debug\AddRecord.pdb
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.exe
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.pdb
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.FormSelection.resources
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.FormStudent.resources
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.FormExamReport.resources
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.FormStudentReport.resources
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.FormTeacher.resources
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.FormTeacherReport.resources
+C:\Users\yigit\source\repos\AddRecord\AddRecord\obj\Debug\AddRecord.FormReportTransiliton.resources
